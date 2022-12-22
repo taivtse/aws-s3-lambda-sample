@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Start-Class: example.FunctionConfiguration
-Main-Class: org.springframework.boot.loader.wrapper.ThinJarWrapper
-
